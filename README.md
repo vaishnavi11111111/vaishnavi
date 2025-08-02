@@ -17,9 +17,9 @@ Welcome to my GitHub profile!
 - Stay tuned for future game dev and AI-related repos!
 
 ## 📊 GitHub Stats
-![Vaishnavi Lekhwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavilekhwar&show_icons=true&theme=radical)
+![Vaishnavi Lekhwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavi11111111&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavilekhwar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi11111111&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/vaishnavi-lekhwar-721aab371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
